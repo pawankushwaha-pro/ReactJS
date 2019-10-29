@@ -1,0 +1,9 @@
+alt+z for toggle/word wrap ,
+ctrl+b for side bar ,
+ctrl+shift+e for explorer,
+ctrl+p for file open,
+ctrl+shift+t for closed tab open,
+ctrl+w for close tab,
+alt+up/down arrow fro move code line,
+
+1. bracket pair colorizer extension
